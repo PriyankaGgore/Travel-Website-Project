@@ -1,2 +1,2 @@
 # Travel-Website-Project
-i create this travel-website project with fully responsiveness using html,css,javascript.
+Hellow Everyone i make Responsive Travel Website Using HTML CSS and JavaScript.
